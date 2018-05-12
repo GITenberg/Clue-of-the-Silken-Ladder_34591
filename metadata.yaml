@@ -20,6 +20,8 @@ creator:
     - http://en.wikipedia.org/wiki/Mildred_Benson
     - http://www.gutenberg.org/browse/authors/c#a36376
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34591#Clue-of-the-Silken-Ladder
 gutenberg_issued: '2010-12-07'
 gutenberg_type: Text
 identifiers:
